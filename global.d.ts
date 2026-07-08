@@ -1,0 +1,11 @@
+declare module '*.css';
+declare module '*.scss';
+declare module '*.sass';
+declare module 'swiper/css';
+declare module 'swiper/css/navigation';
+declare module 'swiper/css/pagination';
+declare module 'swiper/css/effect-fade';
+declare module 'swiper/css/thumbs';
+declare module 'react-perfect-scrollbar/dist/css/styles.css';
+declare module 'react-responsive-modal/styles.css';
+declare module 'react-toastify/dist/ReactToastify.css';
